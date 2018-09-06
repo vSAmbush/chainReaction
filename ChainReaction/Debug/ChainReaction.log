@@ -1,0 +1,17 @@
+﻿  Main.cpp
+d:\программач\chainreaction\chainreaction\field.h(102): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\программач\chainreaction\chainreaction\field.h(116): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\программач\chainreaction\chainreaction\field.h(136): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+d:\программач\chainreaction\chainreaction\field.h(166): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+d:\программач\chainreaction\chainreaction\field.h(169): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+d:\программач\chainreaction\chainreaction\handle.h(121): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+d:\программач\chainreaction\chainreaction\stack.h(67): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+  d:\программач\chainreaction\chainreaction\stack.h(61): note: при компиляции функции-члена "<Нет данных>" класса <Нет данных>
+  d:\программач\chainreaction\chainreaction\handle.h(503): note: см. ссылку на создание экземпляров функции шаблон при компиляции "void Stack<Player>::save(void)"
+  d:\программач\chainreaction\chainreaction\handle.h(499): note: см. ссылку на создание экземпляров класса шаблон при компиляции "Stack<Player>"
+d:\программач\chainreaction\chainreaction\stack.h(92): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+  d:\программач\chainreaction\chainreaction\stack.h(87): note: при компиляции функции-члена "<Нет данных>" класса <Нет данных>
+  d:\программач\chainreaction\chainreaction\main.cpp(96): note: см. ссылку на создание экземпляров функции шаблон при компиляции "void Stack<Player>::load(void)"
+d:\программач\chainreaction\chainreaction\handle.h(89): warning C4715: Handle::getCount: значение возвращается не при всех путях выполнения
+  ChainReaction.vcxproj -> D:\Программач\ChainReaction\Debug\ChainReaction.exe
+  ChainReaction.vcxproj -> D:\Программач\ChainReaction\Debug\ChainReaction.pdb (Full PDB)
